@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/media/vinicius/midias/Projetos/Claro-Spring-Boot/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+4234605494.index
+3865549741.index
